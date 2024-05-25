@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Math parser, also I'm currently implementing reading stuff about DNA Storage<br><br>🌱 I’m currently learning Computer Engineering in Portugal
+🔭 I’m currently studying the HiDNA codec for JPEG images<br><br>🌱 I’m currently learning Computer Engineering in Portugal
 
 
 ## 🌐 Socials:

@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently studying the HiDNA codec for JPEG images<br><br>🌱 I’m currently learning Computer Engineering in Portugal
+<!---🔭 I’m currently studying the HiDNA codec for JPEG images<br><br>-->
+🌱 I’m currently learning Computer Engineering in Portugal
 
 <!---
 ## 🌐 Socials:
@@ -15,6 +16,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<!---
 ---
 [![](https://visitcount.itsvg.in/api?id=Pobedinsky&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
+

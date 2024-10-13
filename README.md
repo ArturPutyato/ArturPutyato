@@ -2,10 +2,6 @@
 <!---🔭 I’m currently studying the HiDNA codec for JPEG images<br><br>-->
 🌱 I’m currently learning Computer Engineering in Portugal
 
-<!---
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1011530231074537473) 
--->
 
 
 # 💻 Tech Stack:
